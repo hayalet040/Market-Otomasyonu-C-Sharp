@@ -1,0 +1,12 @@
+Merhaba Knk lar Projeyi yuklemek basit
+Visual studio 2022
+Sql managment studio 2018
+
+Kullandıgım sürümler bunlar
+
+Kuruluma Gelince
+
+Önce veritabanını kurun lütfek .bak uzantılı dosyayı databaseye kurun
+sonra programı açın ve sqlbaglantim dosyasına girin ve baglantı ayarlarını degıstırın degıstırecegınız kısım name kısmı
+
+sonrasında program hazır ve sizlerle 
